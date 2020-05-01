@@ -4,14 +4,14 @@
 Computer vision has improved rapidly over the past decade due to a few intersecting trends:
 
  - Research advancements in machine learning
- - Petabytes of image data available online
- - Open Source culture with in AI community
+ - Petabytes of image data freely available online
+ - Open Source culture within the AI community
 
 
-One tool in a data scientists toolbox is **transfer learning**. This is particularly useful for image recognition, which typically requires a large amount of training data and extensive computation.
+One technique available to data scientists is **transfer learning**. This is particularly useful for image recognition, models for which typically require a large amount data and extensive computation to train.
 
 
-Instead of training a model from scratch, we can import the weights from another model a basis for our specific use case.
+Instead of training a model from scratch, we can import the weights from another model as a basis for our specific use case.
 
 
 
